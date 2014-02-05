@@ -8,6 +8,7 @@
 #import "TUNinePatchCache.h"
 #import "TUCachingNinePatch.h"
 #import "TUNinePatch.h"
+#import "Common.h"
 
 @interface TUNinePatchCache ()
 

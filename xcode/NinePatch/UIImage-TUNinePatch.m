@@ -7,6 +7,7 @@
 
 #import "UIImage-TUNinePatch.h"
 #import "TUNinePatchProtocols.h"
+#import "Common.h"
 
 void TUImageLog(UIImage *image, NSString *imageName) {
 	if (image && imageName) {

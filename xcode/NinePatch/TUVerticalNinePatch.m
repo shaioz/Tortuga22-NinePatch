@@ -6,6 +6,7 @@
 //
 
 #import "TUVerticalNinePatch.h"
+#import "Common.h"
 
 @interface TUVerticalNinePatch ()
 

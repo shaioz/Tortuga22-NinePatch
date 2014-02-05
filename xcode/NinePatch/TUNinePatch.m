@@ -10,6 +10,7 @@
 #import "TUHorizontalNinePatch.h"
 #import "TUFullNinePatch.h"
 #import "UIImage-TUNinePatch.h"
+#import "Common.h"
 
 @interface TUNinePatch ()
 

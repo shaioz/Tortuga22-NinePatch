@@ -8,6 +8,7 @@
 #import "TUFullNinePatch.h"
 #import "TUNinePatchProtocols.h"
 #import "UIImage-TUNinePatch.h"
+#import "Common.h"
 
 @interface TUFullNinePatch  ()
 

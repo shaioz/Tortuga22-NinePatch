@@ -6,6 +6,7 @@
 //
 
 #import "TUDebugLoggingAssistant.h"
+#import "Common.h"
 
 @interface TUDebugLoggingAssistant ()
 
