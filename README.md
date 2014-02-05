@@ -1,4 +1,5 @@
-You can find a proper writeup of the library [here](http://blog.tortuga22.com/2010/05/31/announcing-tortuga-22-ninepatch/)
+You can find a proper writeup of the library [here](http://blog.tortuga22.com/2010/05/31/announcing-tortuga-22-ninepatch/).
+
 To use this library, Cocoapods is prefered, add:
 
 ```
