@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'Tortuga22-NinePatch'
-  s.version      = '0.1.0'
+  s.version      = '0.1.1'
   s.summary      = 'Implements NinePatch functionality for Cocoa Touch'
   s.description  = <<-DESC
 NinePatch is an image file format invented as part of the Android platform. It offers a solution to the problem of creating high-quality bitmapped art assets in the case that you need lots of dentical assets in different sizes.
@@ -19,6 +19,5 @@ I simply forked from him and tagged a release.
 
   s.ios.deployment_target = '6.0'
   s.requires_arc = false
-
   s.source_files = 'xcode/NinePatch/*.{h,m}'
 end
